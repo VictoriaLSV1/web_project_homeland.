@@ -15,4 +15,4 @@ Este projeto apresenta as cidades natais de alguns funcionários da TripleTen. F
 
 ## Publicação no GitHub Pages
 
-(https://github.com/VictoriaLSV1/web_project_homeland)
+(https://victorialsv1.github.io/web_project_homeland./)
